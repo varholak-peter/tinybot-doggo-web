@@ -62,7 +62,7 @@
     "tailwindcss": "^1.2.0"
   },
   "devDependencies": {
-    "@strv/eslint-config-react": "^3.1.1",
+    "@strv/eslint-config-react": "^3.1.2",
     "@strv/eslint-config-typescript": "^2.2.0",
     "@strv/stylelint-config-styled-components": "^1.1.1",
     "@types/jest": "^25.1.3",
