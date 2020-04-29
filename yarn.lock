@@ -1869,12 +1869,13 @@
   dependencies:
     eslint-plugin-import "^2.20.0"
 
-"@strv/eslint-config-react@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@strv/eslint-config-react/-/eslint-config-react-3.1.1.tgz#50543781579f9c26b34100675a3f2889e8fc1f9f"
-  integrity sha512-X31i6ThYFYQAhG8Y2hsYmQ/b5xSvwmGfYpbXdoYIQKPE2XqYIyJzypVKzW2qP7/JbAa9XXO2vZxSc+HF1P2ENA==
+"@strv/eslint-config-react@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@strv/eslint-config-react/-/eslint-config-react-3.1.2.tgz#3d369690d26d7832e88433bd7020bb6bccb92a70"
+  integrity sha512-khJcXw47PB7/JGr01sj4b910Spc6D4QQh+annB2UtMppQdqTCxxyEeBIxViXI4trGF2aRtVH7z8FjyFCBYUsEw==
   dependencies:
     "@strv/eslint-config-base" "^2.3.0"
+    babel-eslint "^10.0.3"
     eslint-plugin-jsx-a11y "^6.2.0"
     eslint-plugin-react "^7.18.3"
     eslint-plugin-react-hooks "^2.3.0"
